@@ -10,7 +10,7 @@ Scores individual ingredients based on your specific skin profile (e.g., acne-pr
 Analyzes products using a weighted scoring model
 Learns over time to improve recommendations through feedback
 
-🔬 Features
+🔬 Features:
 🧬 Skin-type-based safety scoring
 🧾 Ingredient breakdown with functions and risk levels
 🧠 Adaptive learning model that improves with use
